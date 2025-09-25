@@ -1,4 +1,4 @@
-> 🌍 Disponível em: [English](./README.en.md) · [Français](./LISEZMOI.md)
+> 🌍 Disponível em: [English](./README.md) · [Français](./LISEZMOI.md)
 
 # 👩🏾‍💻 Sobre mim
 
