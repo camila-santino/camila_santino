@@ -1,5 +1,5 @@
 > 🇧🇷 This is the English version of my profile.  
-> For Portuguese, see [README.md](./README.md)  
+> For Portuguese, see [LEIAME.md](./LEIAME.md)  
 > Pour le français, voir [LISEZMOI.md](./LISEZMOI.md)
 
 # 👩🏾‍💻 About Me
