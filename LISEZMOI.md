@@ -1,6 +1,6 @@
 > 🇧🇷 Ceci est la version française de mon profil.  
-> Pour le portugais, voir [LEIAME.md](./LEIAME.md)  
-> For English, see [README.md](./README.md)
+> Pour le portugais, voir [README.md](./README.md)  
+> For English, see [README.eng.md](./README.eng.md)
 
 # 👩🏾‍💻 À propos de moi
 
