@@ -1,6 +1,7 @@
 > 🌍 Disponível em: [English](./README.eng.md) · [Français](./LISEZMOI.md)
 
 # 👩🏾‍💻 Sobre mim
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%)
 
 Oi! Sou Camila — desenvolvedora por curiosidade e artista por natureza, direto de Fortaleza, Brasil 🇧🇷.  
 Sou apaixonada por arte, HQs, poesia, narrativas visuais e tudo que revela o cotidiano com novos olhos. Também estudo idiomas: atualmente praticando inglês e francês, e iniciando alemão.
