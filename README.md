@@ -2,7 +2,8 @@
 
 # 👩🏾‍💻 Sobre mim
 
-Oi! Sou Camila — desenvolvedora por curiosidade e artista por natureza, direto de Fortaleza, Brasil 🇧🇷.  
+Oi! Sou Camila — desenvolvedora por curiosidade e artista por natureza, direto de Fortaleza, Brasil 🇧🇷. Eu sou uma pessoa que gosta de praticar códigos e inventar meus próprios apps e automações. Finalmente, resolvi praticar por aqui e não só ficar observando.
+
 Sou apaixonada por arte, HQs, poesia, narrativas visuais e tudo que revela o cotidiano com novos olhos. Também estudo idiomas: atualmente praticando inglês e francês, e iniciando alemão.
 
 Crio apps por diversão — gosto de transformar ideias em experiências interativas. Testo jogos, exploro interfaces e observo tendências com um olhar crítico e criativo. Programar, pra mim, é tão expressivo quanto escrever ou desenhar. Aprendi de forma autodidata, explorando documentações, tutoriais e projetos experimentais. Nem sempre sei o nome da linguagem que estou usando — mas sei o que quero construir, e busco aprender o necessário para isso. Gosto de testar ideias com código, mesmo sem seguir uma estrutura formal: o foco é criar, entender e evoluir.
