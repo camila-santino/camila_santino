@@ -1,5 +1,3 @@
-> 🌍 Disponível em: [English](./README.eng.md) · [Français](./LISEZMOI.md)
-
 # 👩🏾‍💻 Sobre mim
 
 Oi! Sou Camila — desenvolvedora por curiosidade e artista por natureza, direto de Fortaleza, Brasil 🇧🇷. Eu sou uma pessoa que gosta de praticar códigos e inventar meus próprios apps e automações. Finalmente, resolvi praticar por aqui e não só ficar observando.
