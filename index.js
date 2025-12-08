@@ -1,9 +1,9 @@
-const name = "Nonsense";
+const nome = "Nonsense";
 let qtdXp = 0;
 
 switch (qtdXp) {
     case qtdXp <= 1000:
-        console.log("O Herói {nome} está no nível Ferro");
+        console.log("O Herói " + nome + " está no nível Ferro");
         break;
     case qtdXp >= 1001: 
     case qtdXp <= 2000:
