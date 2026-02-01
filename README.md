@@ -1,41 +1,43 @@
-# 👩🏾‍💻 Sobre mim
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%)
+> 🇧🇷 This is the English version of my profile.  
+> For Portuguese, see [LEIAME.md](./LEIAME.md)  
+> Pour le français, voir [LISEZMOI.md](./LISEZMOI.md)
 
-Oi! Sou Camila — desenvolvedora por curiosidade e artista por natureza, direto de Fortaleza, Brasil 🇧🇷. Eu sou uma pessoa que gosta de praticar códigos e inventar meus próprios apps e automações. Finalmente, resolvi praticar por aqui e não só ficar observando.
+# 👩🏾‍💻 About Me
 
-Sou apaixonada por arte, HQs, poesia, narrativas visuais e tudo que revela o cotidiano com novos olhos. Também estudo idiomas: atualmente praticando inglês e francês, e iniciando alemão.
+Hi! I'm Camila — a developer by curiosity and an artist by nature, based in Fortaleza, Brazil 🇧🇷.  
+I'm passionate about art, comics, poetry, visual storytelling, and everything that reveals everyday life through new lenses. I also study languages: currently practicing English and French, and beginning German.
 
-Crio apps por diversão — gosto de transformar ideias em experiências interativas. Testo jogos, exploro interfaces e observo tendências com um olhar crítico e criativo. Programar, pra mim, é tão expressivo quanto escrever ou desenhar. Aprendi de forma autodidata, explorando documentações, tutoriais e projetos experimentais. Nem sempre sei o nome da linguagem que estou usando — mas sei o que quero construir, e busco aprender o necessário para isso. Gosto de testar ideias com código, mesmo sem seguir uma estrutura formal: o foco é criar, entender e evoluir.
+I build apps for fun — I enjoy turning ideas into interactive experiences. I test games, explore interfaces, and follow trends with a critical and creative eye. For me, coding is as expressive as writing or drawing. I learned to program through self-teaching, exploring documentation, tutorials, and experimental projects. I don’t always know the name of the language I’m using — but I know what I want to build, and I learn what’s needed to make it happen. I like testing ideas with code, even without following a formal structure — the goal is to create, understand, and evolve.
 
-Tenho interesse em explorar como a inteligência artificial pode ampliar experiências culturais, narrativas e interações humanas. Acredito que linguagens — sejam humanas ou de código — são pontes entre mundos. Vejo a tecnologia como ferramenta cultural, e quero trabalhar em projetos que unam essas dimensões, criando experiências que conectem pessoas, ideias e mundos.
+I'm interested in how AI can expand cultural experiences, storytelling, and human interaction. I believe languages — whether spoken or coded — are bridges between worlds. I see technology as a cultural tool, and I want to work on projects that bring both together, creating experiences that connect people, ideas, and perspectives.
 
-> “Sou feita de momentos que não cabem em palavras.”  
+> “I’m made of moments that don’t fit into words.”  
 > “We’re made of star stuff.” — Carl Sagan
 
 ---
 
-### 🛠️ Habilidades e Competências
+### 🛠️ Skills & Competencies
 
-- UX/UI · prototipagem · apps experimentais · no-code · Git · Figma · APIs · web scraping  
-- Inteligência Artificial · machine learning · processamento de linguagem natural  
-- Escrita criativa · design narrativo · curadoria digital · multilinguismo · pesquisa cultural  
-- Autodidatismo · pensamento crítico · comunicação visual · empatia · organização e planejamento
+- UX/UI · Prototyping · Experimental apps · No-code · Git · Figma · APIs · Web scraping  
+- Artificial Intelligence · Machine Learning · Natural Language Processing  
+- Creative writing · Narrative design · Digital curation · Multilingualism · Cultural research  
+- Self-learning · Critical thinking · Visual communication · Empathy · Organization & planning
 
 ---
 
-### 🌐 Links rápidos
+### 🌐 Quick Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Camila%20Santino-blue?logo=linkedin)](https://www.linkedin.com/in/camilasantino)  
 [![Linklist](https://img.shields.io/badge/Linklist.bio-camila__santino-9cf?logo=linktree)](https://linklist.bio/camila_santino)
 
 ---
 
-### 📫 Conecte-se comigo
+### 📫 Connect with Me
 
-Se você gosta de projetos com alma, ideias fora da curva ou quer trocar experiências, fique à vontade para me chamar.  
-Aqui, cada repositório é uma tentativa de transformar curiosidade em criação.
+If you enjoy soulful projects, unconventional ideas, or want to exchange experiences, feel free to reach out.  
+Here, every repository is an attempt to turn curiosity into creation.
 
 ---
 
-Feito com curiosidade, café e poesia.  
-Obrigada por visitar meu espaço ✨
+Made with curiosity, coffee, and poetry.  
+Thanks for visiting my space ✨
